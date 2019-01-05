@@ -21,17 +21,10 @@ let sketches = {
     }
 
 
-
     function mouseClicked() {
 
     };
 
-
-
-
-    function onMidiNote(note, velocity) {
-
-    }
 
     return {
       setupThis: setupThis,
@@ -42,7 +35,7 @@ let sketches = {
   /*************************************************
   * Second Sketch
  *************************************************/
-  new: function () {
+  new1: function () {
 
 
     function setupThis() {
@@ -55,17 +48,10 @@ let sketches = {
     }
 
 
-
     function mouseClicked() {
 
     };
 
-
-
-
-    function onMidiNote(note, velocity) {
-
-    }
 
     return {
       setupThis: setupThis,
@@ -76,7 +62,7 @@ let sketches = {
   /*************************************************
     * Third Sketch
    *************************************************/
-  new: function () {
+  new2: function () {
 
 
     function setupThis() {
@@ -89,17 +75,10 @@ let sketches = {
     }
 
 
-
     function mouseClicked() {
 
     };
 
-
-
-
-    function onMidiNote(note, velocity) {
-
-    }
 
     return {
       setupThis: setupThis,
